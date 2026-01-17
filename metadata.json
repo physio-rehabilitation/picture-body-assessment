@@ -1,0 +1,7 @@
+{
+  "name": "形体美容技术 · 数字化评估实训",
+  "description": "基于AI技术的形体美学诊断实训系统，支持正面及侧面形体识别，自动分析圆肩、盆骨倾斜、O/X型腿等问题并提供专业矫正方案。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
